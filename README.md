@@ -8,14 +8,14 @@ ajout de _fonctionnalité_
 
 [Jedha](jedha.com)
 
-- a
+1 - a
 
 fjdsklfjdsqkljf   
 
-- b
+2 - b
 
 fdjskqjfdlskf
 
-- c
+3 - c
 
 fdsqjklfjdsklf
